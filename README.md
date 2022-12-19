@@ -21,4 +21,4 @@
 **В сборе и на принтере**
 
 ![compl](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/compl.jpeg)
-![on_p](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/on_printer.JPG)
+![on_p](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/on_printer.jpg)
