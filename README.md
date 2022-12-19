@@ -12,13 +12,13 @@
 
 **Сборка**
 
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/1.JPEG)
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/2.JPEG)
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/3.JPEG)
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/4.JPEG)
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/5.JPEG)
+![1](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/1.jpeg)
+![2](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/2.JPEG)
+![3](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/3.JPEG)
+![4](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/4.JPEG)
+![5](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/5.JPEG)
 
 **В сборе и на принтере**
 
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/compl.JPEG)
-![](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/on_printer.JPG)
+![compl](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/compl.JPEG)
+![on_p](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/on_printer.JPG)
