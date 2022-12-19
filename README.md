@@ -1,7 +1,7 @@
 # Shark-Extruder
 Экструдер разработанный для замены стокового на принтере FBG6
 
-![вид](PIC/front.jpg)
+![вид](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/front.JPG)
 
 Для сборки потребуется: 
 
