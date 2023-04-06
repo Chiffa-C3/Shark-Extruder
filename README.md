@@ -11,13 +11,11 @@
 Печать производить с поддержками от стола
 ![cura](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/cura.JPG)
 
-**Сборка**
+**Сборка фидера
 
-![1](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/1.jpeg)
-![2](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/2.jpeg)
-![3](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/3.jpeg)
-![4](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/4.jpeg)
-![5](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/5.jpeg)
+![1](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/build_Shark.jpg)
+![2](https://github.com/Chiffa-C3/Shark-Extruder/blob/main/PIC/build_Flying_Shark.jpeg)
+
 
 **В сборе и на принтере**
 
